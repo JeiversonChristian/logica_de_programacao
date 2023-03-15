@@ -7,5 +7,5 @@ Ele foi baseado no curso de "Algoritmos" do lendário professor Guanabara do [Cu
 
 ## Recursos utilizados
 * Visualg - programa gratuito de edição, interpretação e execução de algoritmos, similar ao portugol: [download](https://sourceforge.net/projects/visualg30/)
-* Slides - todos os slides das aulas estão disponibilizados aqui - *atualização em andamento*.
+* Slides - todos os slides das aulas estão disponibilizados aqui.
 * Canetão, quadro branco, caneta e caderno - Mesmo sendo um "curso de computador", estes são recursos indispensáveis.
