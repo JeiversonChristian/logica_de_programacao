@@ -9,6 +9,7 @@ Ele foi baseado no curso de "Algoritmos" do lendário professor Guanabara, do [C
 1 Introdução
 * Apresentação do curso.
 * Definição de lógica, programação e algoritmo.
+
 2 1º programa de computador
 
 ## Recursos utilizados
