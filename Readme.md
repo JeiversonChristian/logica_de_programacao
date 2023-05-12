@@ -1,6 +1,8 @@
 # Lógica de Programação
 ## Curso de Lógica de Programação que ministrei na FEEB
 
+## Projeto concluído
+
 Estre projeto contém o curso de Lógica de Programação que ministrei na FEEB - Fraternidade Espírita Eurípedes Barsanulfo - localizada na cidade de Betim / MG, no ano de 2023.
 
 Ele foi baseado no curso de "Algoritmos" do lendário professor Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/), e na disciplina de "Programação" que cursei no primeiro semestre de 2022 no curso de "Ciência da Computação" que estava fazendo na UFV - Universidade Federal de Minas Gerais - Campus Florestal.
